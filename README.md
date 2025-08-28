@@ -33,3 +33,37 @@ Le but du jeu est de contrôler un vaisseau spatial et de détruire les ennemis 
 
 ---
 
+# English:
+
+## Star Battle
+
+**Star Battle** is a 2D video game developed in **Python** with **Pygame**.  
+The goal of the game is to control a spaceship and destroy enemy ships before facing the final Boss.
+
+---
+
+### Game Objective
+- The player controls a spaceship and must avoid enemy shots.  
+- At the start, the player has to defeat **two enemy ships**.  
+- Once the enemies are destroyed, a **final Boss** appears.  
+- The Boss has a **health bar** that decreases when hit by the player’s lasers.  
+- The game ends with a **Victory** (if the Boss is defeated) or a **Game Over** (if the player is destroyed).  
+
+---
+
+### Game Features
+- Animated starfield background for a space effect.  
+- Enemy ships (Tie Fighters) shooting at the player.  
+- A Boss fight with laser attacks.  
+- Explosions and sound effects on collisions.  
+- A Boss health bar that changes color (green → yellow → red).  
+- A victory screen with music.  
+- A Game Over screen with visual and sound effects.  
+
+---
+
+### Controls
+- ⬅️ ➡️ : Move the spaceship  
+- **Spacebar** : Shoot  
+
+---
