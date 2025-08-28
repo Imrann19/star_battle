@@ -27,7 +27,7 @@ Le but du jeu est de contrôler un vaisseau spatial et de détruire les ennemis 
 
 ---
 
-### 🕹Commandes
+### Commandes
 - ⬅️ ➡️ : Déplacer le vaisseau  
 - **Espace** : Tirer  
 
